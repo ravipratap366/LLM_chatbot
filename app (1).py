@@ -11,7 +11,7 @@ from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import os
 
-#os.environ['OPENAI_API_KEY'] = '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'
+#os.environ['OPENAI_API_KEY'] = 'enteryourAPIKEY'
 
 
 def get_pdf_text(pdf_docs):
